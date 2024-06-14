@@ -11,9 +11,9 @@
     <PrimPe></PrimPe>
     <PrimVp></PrimVp>
     <PrimSp></PrimSp>
-    <ExportPage1>False</ExportPage1>
+    <ExportPage1>True</ExportPage1>
     <ExportPage2>False</ExportPage2>
-    <ExportPage3>True</ExportPage3>
+    <ExportPage3>False</ExportPage3>
     <ExportPage4>False</ExportPage4>
     <LockPage1>True</LockPage1>
     <LockPage2>True</LockPage2>
@@ -42,49 +42,11 @@
     <SheetName>SheetName</SheetName>
   </DocsParams>
   <Positions>
-    <Position id="2">
-      <Value>VD11</Value>
-      <Value>VD12</Value>
-    </Position>
     <Position id="3">
-      <Value>VD1</Value>
-      <Value>VD2</Value>
-    </Position>
-    <Position id="4">
-      <Value>VD9</Value>
-      <Value>VD10</Value>
-    </Position>
-    <Position id="5">
-      <Value>VD3</Value>
-      <Value>VD4</Value>
-      <Value>VD5</Value>
-      <Value>VD6</Value>
-      <Value>VD7</Value>
-      <Value>VD8</Value>
-    </Position>
-    <Position id="6">
-      <Value>L7</Value>
-      <Value>L8</Value>
-      <Value>L9</Value>
-      <Value>L10</Value>
-      <Value>L11</Value>
-    </Position>
-    <Position id="7">
-      <Value>L1</Value>
-      <Value>L2</Value>
-      <Value>L3</Value>
-      <Value>L4</Value>
-      <Value>L5</Value>
-      <Value>L6</Value>
-    </Position>
-    <Position id="8">
-      <Value>SW1</Value>
-    </Position>
-    <Position id="9">
       <Value>C74</Value>
       <Value>C75</Value>
     </Position>
-    <Position id="10">
+    <Position id="5">
       <Value>C18</Value>
       <Value>C34</Value>
       <Value>C35</Value>
@@ -109,7 +71,7 @@
       <Value>C54</Value>
       <Value>C55</Value>
     </Position>
-    <Position id="11">
+    <Position id="7">
       <Value>C15</Value>
       <Value>C33</Value>
       <Value>C56</Value>
@@ -136,11 +98,11 @@
       <Value>C94</Value>
       <Value>C95</Value>
     </Position>
-    <Position id="12">
+    <Position id="9">
       <Value>C96</Value>
       <Value>C97</Value>
     </Position>
-    <Position id="13">
+    <Position id="11">
       <Value>C3</Value>
       <Value>C4</Value>
       <Value>C5</Value>
@@ -149,7 +111,7 @@
       <Value>C82</Value>
       <Value>C98</Value>
     </Position>
-    <Position id="14">
+    <Position id="13">
       <Value>C2</Value>
       <Value>C17</Value>
       <Value>C19</Value>
@@ -177,17 +139,17 @@
       <Value>C100</Value>
       <Value>C101</Value>
     </Position>
-    <Position id="16">
+    <Position id="17">
       <Value>C62</Value>
       <Value>C63</Value>
       <Value>C64</Value>
       <Value>C65</Value>
       <Value>C69</Value>
     </Position>
-    <Position id="17">
+    <Position id="19">
       <Value>C99</Value>
     </Position>
-    <Position id="18">
+    <Position id="21">
       <Value>C6</Value>
       <Value>C7</Value>
       <Value>C8</Value>
@@ -199,82 +161,79 @@
       <Value>C66</Value>
       <Value>C67</Value>
     </Position>
-    <Position id="19">
+    <Position id="23">
       <Value>C9</Value>
     </Position>
-    <Position id="20">
+    <Position id="25">
       <Value>C1</Value>
     </Position>
-    <Position id="21">
+    <Position id="27">
       <Value>DA1</Value>
       <Value>DA6</Value>
     </Position>
-    <Position id="22">
+    <Position id="29">
       <Value>DA2</Value>
       <Value>DA3</Value>
       <Value>DA4</Value>
       <Value>DA5</Value>
     </Position>
-    <Position id="23">
+    <Position id="31">
       <Value>DA8</Value>
     </Position>
-    <Position id="24">
+    <Position id="33">
       <Value>DA7</Value>
     </Position>
-    <Position id="25">
+    <Position id="35">
       <Value>DD3</Value>
     </Position>
-    <Position id="26">
+    <Position id="37">
       <Value>DD1</Value>
     </Position>
-    <Position id="27">
+    <Position id="39">
       <Value>DD4</Value>
     </Position>
-    <Position id="28">
+    <Position id="41">
       <Value>DD2</Value>
     </Position>
-    <Position id="29">
-      <Value>X3</Value>
+    <Position id="43">
+      <Value>L7</Value>
+      <Value>L8</Value>
+      <Value>L9</Value>
+      <Value>L10</Value>
+      <Value>L11</Value>
     </Position>
-    <Position id="30">
-      <Value>X2</Value>
+    <Position id="45">
+      <Value>L1</Value>
+      <Value>L2</Value>
+      <Value>L3</Value>
+      <Value>L4</Value>
+      <Value>L5</Value>
+      <Value>L6</Value>
     </Position>
-    <Position id="31">
-      <Value>X4</Value>
-    </Position>
-    <Position id="32">
-      <Value>X6</Value>
-    </Position>
-    <Position id="33">
-      <Value>X5</Value>
-    </Position>
-    <Position id="34">
-      <Value>X1</Value>
-    </Position>
-    <Position id="35">
+    <Position id="47">
       <Value>R28</Value>
     </Position>
-    <Position id="36">
+    <Position id="49">
       <Value>R15</Value>
       <Value>R17</Value>
       <Value>R19</Value>
     </Position>
-    <Position id="37">
+    <Position id="51">
       <Value>R9</Value>
     </Position>
-    <Position id="38">
+    <Position id="53">
       <Value>R4</Value>
       <Value>R5</Value>
     </Position>
-    <Position id="39">
+    <Position id="55">
       <Value>R22</Value>
       <Value>R29</Value>
     </Position>
-    <Position id="40">
+    <Position id="57">
       <Value>R23</Value>
       <Value>R56</Value>
     </Position>
-    <Position id="41">
+    <Position id="59">
       <Value>R24</Value>
       <Value>R25</Value>
       <Value>R26</Value>
@@ -282,7 +241,7 @@
       <Value>R30</Value>
       <Value>R31</Value>
     </Position>
-    <Position id="42">
+    <Position id="61">
       <Value>R3</Value>
       <Value>R6</Value>
       <Value>R7</Value>
@@ -290,7 +249,7 @@
       <Value>R20</Value>
       <Value>R21</Value>
     </Position>
-    <Position id="43">
+    <Position id="63">
       <Value>R32</Value>
       <Value>R33</Value>
       <Value>R34</Value>
@@ -300,32 +259,32 @@
       <Value>R82</Value>
       <Value>R85</Value>
     </Position>
-    <Position id="44">
+    <Position id="65">
       <Value>R13</Value>
     </Position>
-    <Position id="45">
+    <Position id="67">
       <Value>R16</Value>
     </Position>
-    <Position id="46">
+    <Position id="69">
       <Value>R43</Value>
       <Value>R44</Value>
       <Value>R45</Value>
     </Position>
-    <Position id="47">
+    <Position id="71">
       <Value>R18</Value>
     </Position>
-    <Position id="48">
+    <Position id="73">
       <Value>R1</Value>
       <Value>R2</Value>
     </Position>
-    <Position id="49">
+    <Position id="75">
       <Value>R10</Value>
       <Value>R12</Value>
     </Position>
-    <Position id="50">
+    <Position id="77">
       <Value>R74</Value>
     </Position>
-    <Position id="51">
+    <Position id="79">
       <Value>R39</Value>
       <Value>R40</Value>
       <Value>R46</Value>
@@ -347,7 +306,7 @@
       <Value>R78</Value>
       <Value>R79</Value>
     </Position>
-    <Position id="52">
+    <Position id="81">
       <Value>R8</Value>
       <Value>R11</Value>
       <Value>R48</Value>
@@ -363,20 +322,61 @@
       <Value>R61</Value>
       <Value>R62</Value>
     </Position>
-    <Position id="53">
+    <Position id="83">
       <Value>R80</Value>
       <Value>R81</Value>
       <Value>R83</Value>
       <Value>R84</Value>
     </Position>
-    <Position id="54">
+    <Position id="85">
       <Value>R38</Value>
       <Value>R41</Value>
       <Value>R42</Value>
       <Value>R47</Value>
       <Value>R63</Value>
     </Position>
-    <Position id="55">
+    <Position id="87">
+      <Value>SW1</Value>
+    </Position>
+    <Position id="89">
+      <Value>VD11</Value>
+      <Value>VD12</Value>
+    </Position>
+    <Position id="91">
+      <Value>VD1</Value>
+      <Value>VD2</Value>
+    </Position>
+    <Position id="93">
+      <Value>VD9</Value>
+      <Value>VD10</Value>
+    </Position>
+    <Position id="95">
+      <Value>VD3</Value>
+      <Value>VD4</Value>
+      <Value>VD5</Value>
+      <Value>VD6</Value>
+      <Value>VD7</Value>
+      <Value>VD8</Value>
+    </Position>
+    <Position id="97">
+      <Value>X3</Value>
+    </Position>
+    <Position id="99">
+      <Value>X2</Value>
+    </Position>
+    <Position id="101">
+      <Value>X4</Value>
+    </Position>
+    <Position id="103">
+      <Value>X6</Value>
+    </Position>
+    <Position id="105">
+      <Value>X5</Value>
+    </Position>
+    <Position id="107">
+      <Value>X1</Value>
+    </Position>
+    <Position id="109">
       <Value>Z1</Value>
     </Position>
   </Positions>
@@ -512,51 +512,35 @@
     <vpline num="6" oboz="" kod="" name="VLS6045EX-4R7M-H 4.7 мкГн (TDK)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="" oboz="" kod="" name="Кнопки тактовые" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
-    <vpline num="1" oboz="" kod="" name="Кнопка тактовая IT-1187-160GM-G " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="(Switronic)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="Кнопка тактовая IT-1187-160GM-G (Switronic)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="" oboz="" kod="" name="Конденсаторы" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
-    <vpline num="2" oboz="" kod="" name="CC0603KRNPO9BN330 33 пФ 50 В X7R " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="(Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="23" oboz="" kod="" name="CC0603KRX7R6BB474 0.47 мкФ 10 В X7R " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="(Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="25" oboz="" kod="" name="CC0603KRX7R9BB104 0.1 мкф 50 В X7R " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="(Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="2" oboz="" kod="" name="CC0603KRNPO9BN330 33 пФ 50 В X7R (Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="23" oboz="" kod="" name="CC0603KRX7R6BB474 0.47 мкФ 10 В X7R (Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="25" oboz="" kod="" name="CC0603KRX7R9BB104 0.1 мкф 50 В X7R (Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="2" oboz="" kod="" name="CC0805KKX5R5BB226 22 мкФ 6.3 В X7R (Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="7" oboz="" kod="" name="CL10A106KQ8NNNC 10 мкФ 6.3 В X5R (Samsung)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="21" oboz="" kod="" name="CL10A475KP8NNNC 4.7 мкФ 10 В X5R (Samsung)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="3" oboz="" kod="" name="CL10B103KB8NNND 0.01 мкф 50 В X5R (Samsung)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="5" oboz="" kod="" name="CL21C270JBANNNC 27 пФ 50 В X5R (Samsung)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="" oboz="" kod="" name="Конденсаторы" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
-    <vpline num="2" oboz="" kod="" name="CC0805KKX5R5BB226 22 мкФ 6.3 В X7R " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="(Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="7" oboz="" kod="" name="CL10A106KQ8NNNC 10 мкФ 6.3 В X5R " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="(Samsung)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="21" oboz="" kod="" name="CL10A475KP8NNNC 4.7 мкФ 10 В X5R " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="(Samsung)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="3" oboz="" kod="" name="CL10B103KB8NNND 0.01 мкф 50 В X5R " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="(Samsung)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="5" oboz="" kod="" name="CL21C270JBANNNC 27 пФ 50 В X5R " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="(Samsung)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="1" oboz="" kod="" name="GR442QR73D102KW01L 1000 пФ 2 кВ X5R " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="" oboz="" kod="" name="(Murata)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="10" oboz="" kod="" name="GRM21BR60J476ME15L 47 мкФ 6.3 В X5R " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="" oboz="" kod="" name="(Murata)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="1" oboz="" kod="" name="GRM31CR60J107ME39L 100 мкФ 6.3 В X5R " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="" oboz="" kod="" name="(Murata)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="1" oboz="" kod="" name="GRM31CR61E476ME44L 47 мкФ 16 В X5R " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="(Murata)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="GRM31CR61E476ME44L 47 мкФ 16 В X5R (Murata)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="" oboz="" kod="" name="Микросхемы аналоговые" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
-    <vpline num="2" oboz="" kod="" name="Импульсный регулятор MP2315GJ " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="(Monolithic)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="2" oboz="" kod="" name="Импульсный регулятор MP2315GJ (Monolithic)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="4" oboz="" kod="" name="Импульсный регулятор NCP1529 (ONSemi)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="1" oboz="" kod="" name="Трансформаторная сборка HX5008NLT " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="(Pulse Electronics)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="Микросхемы аналоговые" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
-    <vpline num="1" oboz="" kod="" name="Цифровой микрофон SPH0645LM4H " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="(Knowles)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="Трансформаторная сборка HX5008NLT (Pulse " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="Electronics)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="Цифровой микрофон SPH0645LM4H (Knowles)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="" oboz="" kod="" name="Микросхемы цифровые" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
-    <vpline num="1" oboz="" kod="" name="Кварцевый генератор SG-8018CA TJHPA " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="(Epson)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="Кварцевый генератор SG-8018CA TJHPA (Epson)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="1" oboz="" kod="" name="ПЛИС XC7A35T-1FTG256C (Xilinx)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="1" oboz="" kod="" name="Приёмопередатчик физического уровня " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="" oboz="" kod="" name="Ethernet KSZ9131RXNI (TI)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
@@ -566,6 +550,7 @@
     <vpline num="1" oboz="" kod="" name="DC3-14P (Китай)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="1" oboz="" kod="" name="DC005 5,5x2,1 mm (Китай)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="1" oboz="" kod="" name="DS1021-1X3SF11-B (Connfly)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="Разъёмы" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
     <vpline num="1" oboz="" kod="" name="DS1021-1X10SF11-B (Connfly)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="1" oboz="" kod="" name="RJHSE-5381 (Amphenol)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="1" oboz="" kod="" name="USB Type-C (Китай)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
@@ -573,54 +558,36 @@
     <vpline num="" oboz="" kod="" name="Резисторы" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
     <vpline num="1" oboz="" kod="" name="RC0603FR-0712K4L 12.4 кОм 5% 0.125 Вт " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="" oboz="" kod="" name="(Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="3" oboz="" kod="" name="RC0603FR-07180KL 180 кОм 1% 0.125 Вт " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="3" oboz="" kod="" name="RC0603FR-07180KL 180 кОм 1% 0.125 Вт (Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="RC0603FR-0720KL 20 кОм 5% 0.125 Вт (Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="2" oboz="" kod="" name="RC0603FR-07220KL 220 кОм 5% 0.125 Вт " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="" oboz="" kod="" name="(Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="Резисторы" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
-    <vpline num="1" oboz="" kod="" name="RC0603FR-0720KL 20 кОм 5% 0.125 Вт " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="(Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="2" oboz="" kod="" name="RC0603FR-07220KL 220 кОм 5% 0.125 Вт" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="(Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="2" oboz="" kod="" name="RC0603FR-0739KL 39 кОм 1% 0.125 Вт " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="(Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="2" oboz="" kod="" name="RC0603FR-077K5L 7.5 кОм 5% 0.125 Вт " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="(Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="6" oboz="" kod="" name="RC0805FR-070RL 0 Ом 5% 0.125 Вт " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="(Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="6" oboz="" kod="" name="RC0805FR-07120KL 120 кОм 1% 0.125 Вт " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="(Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="8" oboz="" kod="" name="RC0805FR-07220RL 220 Ом 5% 0.125 Вт " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="(Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="1" oboz="" kod="" name="RC0805FR-0733KL 33 кОм 5% 0.125 Вт " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="(Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="2" oboz="" kod="" name="RC0603FR-0739KL 39 кОм 1% 0.125 Вт (Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="2" oboz="" kod="" name="RC0603FR-077K5L 7.5 кОм 5% 0.125 Вт (Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="6" oboz="" kod="" name="RC0805FR-070RL 0 Ом 5% 0.125 Вт (Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="6" oboz="" kod="" name="RC0805FR-07120KL 120 кОм 1% 0.125 Вт (Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="8" oboz="" kod="" name="RC0805FR-07220RL 220 Ом 5% 0.125 Вт (Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="RC0805FR-0733KL 33 кОм 5% 0.125 Вт (Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="1" oboz="" kod="" name="RC0805FR-07360KL 360 кОм 1% 0.125 Вт " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="" oboz="" kod="" name="(Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="3" oboz="" kod="" name="RC0805FR-0751RL 51 Ом 5% 0.125 Вт " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="(Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="3" oboz="" kod="" name="RC0805FR-0751RL 51 Ом 5% 0.125 Вт (Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="1" oboz="" kod="" name="RC0805FR-07560KL 560 кОм 1% 0.125 Вт " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="" oboz="" kod="" name="(Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="2" oboz="" kod="" name="RC0805FR-075K1L 5.1 кОм 5% 0.125 Вт " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="(Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="2" oboz="" kod="" name="RC0805FR-075K1L 5.1 кОм 5% 0.125 Вт (Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="2" oboz="" kod="" name="RC0805FR-0768KL 68 кОм 5% 0.125 Вт (Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="" oboz="" kod="" name="Резисторы" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
-    <vpline num="2" oboz="" kod="" name="RC0805FR-0768KL 68 кОм 5% 0.125 Вт " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="(Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="1" oboz="" kod="" name="RC0805FR-076K04L 6.04 кОм 1% 0.125 Вт" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="RC0805FR-076K04L 6.04 кОм 1% 0.125 Вт " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="" oboz="" kod="" name="(Bourns)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="20" oboz="" kod="" name="RC0805JR-071KL 1 кОм 5% 0.125 Вт " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="(Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="14" oboz="" kod="" name="RC0805JR-0720RL 20 Ом 5% 0.125 Вт " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="(Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="4" oboz="" kod="" name="RC1206JR-0775RL 75 Ом 5% 0.25 Вт " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="(Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="5" oboz="" kod="" name="RS-05K472JT 4.7 кОм 5% 0.125 Вт " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="(Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="20" oboz="" kod="" name="RC0805JR-071KL 1 кОм 5% 0.125 Вт (Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="14" oboz="" kod="" name="RC0805JR-0720RL 20 Ом 5% 0.125 Вт (Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="4" oboz="" kod="" name="RC1206JR-0775RL 75 Ом 5% 0.25 Вт (Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="5" oboz="" kod="" name="RS-05K472JT 4.7 кОм 5% 0.125 Вт (Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="" oboz="" kod="" name="Резонатор кварцевый" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
-    <vpline num="1" oboz="" kod="" name="Резонатор кварцевый WTL9S85401FO " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="25 МГц (WTL)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="Резонатор кварцевый WTL9S85401FO 25 МГц " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="(WTL)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
   </vplines>
   <speclines>
     <specline num="" oboz="" name="Документация" comment="" underline="True" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
@@ -897,8 +864,8 @@
       <param name="Графа 24 - Справ. №" value="" />
     </Stamp>
     <Stamp document="SP">
-      <param name="Разработал" value="" />
-      <param name="Проверил" value="" />
+      <param name="Разработал" value="Добротин А.А." />
+      <param name="Проверил" value="Леонидов В.В." />
       <param name="Начальник отдела" value="" />
       <param name="Начальник отдела ( альтернативное название параметра)" value="" />
       <param name="Утвердил" value="" />
