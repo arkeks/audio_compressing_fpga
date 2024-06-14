@@ -383,40 +383,40 @@
   <materials />
   <pelines>
     <peline num="" oboz="" name="Конденсаторы" comment="" underline="False" type="ElementGroup" />
-    <peline num="1" oboz="C1" name="GRM31CR61E476ME44L 47 мкФ 16 В (Murata)" comment="" underline="False" type="None" />
-    <peline num="1" oboz="C2" name="CL10A475KP8NNNC 4.7 мкФ 10 В (Murata)" comment="" underline="False" type="None" />
-    <peline num="3" oboz="C3-C5" name="CL10A106KQ8NNNC 10 мкФ 6.3 В (Samsung)" comment="" underline="False" type="None" />
-    <peline num="3" oboz="C6-C8" name="GRM21BR60J476ME15L 47 мкФ 6.3 В (Murata)" comment="" underline="False" type="None" />
-    <peline num="1" oboz="C9" name="GRM31CR60J107ME39L 100 мкФ 6.3 В (Samsung)" comment="" underline="False" type="None" />
-    <peline num="5" oboz="C10-C14" name="GRM21BR60J476ME15L 47 мкФ 6.3 В (Murata)" comment="" underline="False" type="None" />
-    <peline num="1" oboz="C15" name="CC0603KRX7R9BB104 0.1 мкф 50 В (Yageo)" comment="" underline="False" type="None" />
-    <peline num="1" oboz="C16" name="CL10A106KQ8NNNC 10 мкФ 6.3 В (Samsung)" comment="" underline="False" type="None" />
-    <peline num="1" oboz="C17" name="CL10A475KP8NNNC 4.7 мкФ 10 В (Murata)" comment="" underline="False" type="None" />
-    <peline num="1" oboz="C18" name="CC0603KRX7R6BB474 0.47 мкФ 10 В (Murata)" comment="" underline="False" type="None" />
-    <peline num="14" oboz="C19-C32" name="CL10A475KP8NNNC 4.7 мкФ 10 В (Murata)" comment="" underline="False" type="None" />
-    <peline num="1" oboz="C33" name="CC0603KRX7R9BB104 0.1 мкф 50 В (Yageo)" comment="" underline="False" type="None" />
-    <peline num="22" oboz="C34-C55" name="CC0603KRX7R6BB474 0.47 мкФ 10 В (Murata)" comment="" underline="False" type="None" />
-    <peline num="1" oboz="C56" name="CC0603KRX7R9BB104 0.1 мкф 50 В (Yageo)" comment="" underline="False" type="None" />
-    <peline num="4" oboz="C57-C60" name="CL10A475KP8NNNC 4.7 мкФ 10 В (Murata)" comment="" underline="False" type="None" />
-    <peline num="1" oboz="C61" name="CC0603KRX7R9BB104 0.1 мкф 50 В (Yageo)" comment="" underline="False" type="None" />
-    <peline num="4" oboz="C62-C65" name="CL21C270JBANNNC 27 пФ 50 В (Murata)" comment="" underline="False" type="None" />
-    <peline num="2" oboz="C66, C67" name="GRM21BR60J476ME15L 47 мкФ 6.3 В (Murata)" comment="" underline="False" type="None" />
-    <peline num="1" oboz="C68" name="CC0603KRX7R9BB104 0.1 мкф 50 В (Yageo)" comment="" underline="False" type="None" />
-    <peline num="1" oboz="C69" name="CL21C270JBANNNC 27 пФ 50 В (Murata)" comment="" underline="False" type="None" />
-    <peline num="2" oboz="C70, C71" name="CC0603KRX7R9BB104 0.1 мкф 50 В (Yageo)" comment="" underline="False" type="None" />
-    <peline num="1" oboz="C72" name="CL10A475KP8NNNC 4.7 мкФ 10 В (Murata)" comment="" underline="False" type="None" />
-    <peline num="1" oboz="C73" name="CC0603KRX7R9BB104 0.1 мкф 50 В (Yageo)" comment="" underline="False" type="None" />
-    <peline num="2" oboz="C74, C75" name="CC0603KRNPO9BN330 33 пФ 50 В (Yageo)" comment="" underline="False" type="None" />
-    <peline num="5" oboz="C76-C80" name="CC0603KRX7R9BB104 0.1 мкф 50 В (Yageo)" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C1" name="GRM31CR61E476ME44L 47 мкФ 16 В X5R (Murata)" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C2" name="CL10A475KP8NNNC 4.7 мкФ 10 В X5R (Samsung)" comment="" underline="False" type="None" />
+    <peline num="3" oboz="C3-C5" name="CL10A106KQ8NNNC 10 мкФ 6.3 В X5R (Samsung)" comment="" underline="False" type="None" />
+    <peline num="3" oboz="C6-C8" name="GRM21BR60J476ME15L 47 мкФ 6.3 В X5R (Murata)" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C9" name="GRM31CR60J107ME39L 100 мкФ 6.3 В X5R (Murata)" comment="" underline="False" type="None" />
+    <peline num="5" oboz="C10-C14" name="GRM21BR60J476ME15L 47 мкФ 6.3 В X5R (Murata)" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C15" name="CC0603KRX7R9BB104 0.1 мкф 50 В X7R (Yageo)" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C16" name="CL10A106KQ8NNNC 10 мкФ 6.3 В X5R (Samsung)" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C17" name="CL10A475KP8NNNC 4.7 мкФ 10 В X5R (Samsung)" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C18" name="CC0603KRX7R6BB474 0.47 мкФ 10 В X7R (Yageo)" comment="" underline="False" type="None" />
+    <peline num="14" oboz="C19-C32" name="CL10A475KP8NNNC 4.7 мкФ 10 В X5R (Samsung)" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C33" name="CC0603KRX7R9BB104 0.1 мкф 50 В X7R (Yageo)" comment="" underline="False" type="None" />
+    <peline num="22" oboz="C34-C55" name="CC0603KRX7R6BB474 0.47 мкФ 10 В X7R (Yageo)" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C56" name="CC0603KRX7R9BB104 0.1 мкф 50 В X7R (Yageo)" comment="" underline="False" type="None" />
+    <peline num="4" oboz="C57-C60" name="CL10A475KP8NNNC 4.7 мкФ 10 В X5R (Samsung)" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C61" name="CC0603KRX7R9BB104 0.1 мкф 50 В X7R (Yageo)" comment="" underline="False" type="None" />
+    <peline num="4" oboz="C62-C65" name="CL21C270JBANNNC 27 пФ 50 В X5R (Samsung)" comment="" underline="False" type="None" />
+    <peline num="2" oboz="C66, C67" name="GRM21BR60J476ME15L 47 мкФ 6.3 В X5R (Murata)" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C68" name="CC0603KRX7R9BB104 0.1 мкф 50 В X7R (Yageo)" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C69" name="CL21C270JBANNNC 27 пФ 50 В X5R (Samsung)" comment="" underline="False" type="None" />
+    <peline num="2" oboz="C70, C71" name="CC0603KRX7R9BB104 0.1 мкф 50 В X7R (Yageo)" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C72" name="CL10A475KP8NNNC 4.7 мкФ 10 В X5R (Samsung)" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C73" name="CC0603KRX7R9BB104 0.1 мкф 50 В X7R (Yageo)" comment="" underline="False" type="None" />
+    <peline num="2" oboz="C74, C75" name="CC0603KRNPO9BN330 33 пФ 50 В X7R (Yageo)" comment="" underline="False" type="None" />
+    <peline num="5" oboz="C76-C80" name="CC0603KRX7R9BB104 0.1 мкф 50 В X7R (Yageo)" comment="" underline="False" type="None" />
     <peline num="" oboz="" name="Конденсаторы" comment="" underline="False" type="ElementGroup" />
-    <peline num="2" oboz="C81, C82" name="CL10A106KQ8NNNC 10 мкФ 6.3 В (Samsung)" comment="" underline="False" type="None" />
-    <peline num="9" oboz="C83-C91" name="CC0603KRX7R9BB104 0.1 мкф 50 В (Yageo)" comment="" underline="False" type="None" />
-    <peline num="1" oboz="C92" name="CL10B103KB8NNND 0.01 мкф 50 В (Samsung)" comment="" underline="False" type="None" />
-    <peline num="3" oboz="C93-C95" name="CC0603KRX7R9BB104 0.1 мкф 50 В (Yageo)" comment="" underline="False" type="None" />
-    <peline num="2" oboz="C96, C97" name="CC0805KKX5R5BB226 22 мкФ 6.3 В (Samsung)" comment="" underline="False" type="None" />
-    <peline num="1" oboz="C98" name="CL10A106KQ8NNNC 10 мкФ 6.3 В (Samsung)" comment="" underline="False" type="None" />
-    <peline num="1" oboz="C99" name="GR442QR73D102KW01L 1000 пФ 2 кВ (Murata)" comment="" underline="False" type="None" />
-    <peline num="2" oboz="C100, C101" name="CL10B103KB8NNND 0.01 мкф 50 В (Samsung)" comment="" underline="False" type="None" />
+    <peline num="2" oboz="C81, C82" name="CL10A106KQ8NNNC 10 мкФ 6.3 В X5R (Samsung)" comment="" underline="False" type="None" />
+    <peline num="9" oboz="C83-C91" name="CC0603KRX7R9BB104 0.1 мкф 50 В X7R (Yageo)" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C92" name="CL10B103KB8NNND 0.01 мкф 50 В X5R (Samsung)" comment="" underline="False" type="None" />
+    <peline num="3" oboz="C93-C95" name="CC0603KRX7R9BB104 0.1 мкф 50 В X7R (Yageo)" comment="" underline="False" type="None" />
+    <peline num="2" oboz="C96, C97" name="CC0805KKX5R5BB226 22 мкФ 6.3 В X7R (Yageo)" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C98" name="CL10A106KQ8NNNC 10 мкФ 6.3 В X5R (Samsung)" comment="" underline="False" type="None" />
+    <peline num="1" oboz="C99" name="GR442QR73D102KW01L 1000 пФ 2 кВ X5R (Murata)" comment="" underline="False" type="None" />
+    <peline num="2" oboz="C100, C101" name="CL10B103KB8NNND 0.01 мкф 50 В X5R (Samsung)" comment="" underline="False" type="None" />
     <peline num="" oboz="" name="" comment="" underline="False" type="None" />
     <peline num="" oboz="" name="Микросхемы аналоговые" comment="" underline="False" type="ElementGroup" />
     <peline num="1" oboz="DA1" name="Импульсный регулятор MP2315GJ (Monolithic)" comment="" underline="False" type="None" />
@@ -427,8 +427,8 @@
     <peline num="" oboz="" name="" comment="" underline="False" type="None" />
     <peline num="" oboz="" name="Микросхемы цифровые" comment="" underline="False" type="ElementGroup" />
     <peline num="1" oboz="DD1" name="ПЛИС XC7A35T-1FTG256C (Xilinx)" comment="" underline="False" type="None" />
-    <peline num="1" oboz="DD2" name="Флеш-память MX25L12835F (" comment="" underline="False" type="None" />
-    <peline num="1" oboz="DD3" name="Кварцевый генератор SG-8018CA TJHPA (" comment="" underline="False" type="None" />
+    <peline num="1" oboz="DD2" name="Флеш-память MX25L12835F (Macronix)" comment="" underline="False" type="None" />
+    <peline num="1" oboz="DD3" name="Кварцевый генератор SG-8018CA TJHPA (Epson)" comment="" underline="False" type="None" />
     <peline num="1" oboz="DD4" name="Приёмопередатчик физического уровня Ethernet KSZ9131RXNI (TI)" comment="" underline="False" type="None" />
     <peline num="" oboz="" name="" comment="" underline="False" type="None" />
     <peline num="" oboz="" name="Индуктивности" comment="" underline="False" type="ElementGroup" />
@@ -502,33 +502,38 @@
   </pelines>
   <vplines>
     <vpline num="" oboz="" kod="" name="Конденсаторы" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
-    <vpline num="2" oboz="" kod="" name="CC0603KRNPO9BN330 33 пФ 50 В (Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="23" oboz="" kod="" name="CC0603KRX7R6BB474 0.47 мкФ 10 В (Murata)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="25" oboz="" kod="" name="CC0603KRX7R9BB104 0.1 мкф 50 В (Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="2" oboz="" kod="" name="CC0805KKX5R5BB226 22 мкФ 6.3 В (Samsung)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="7" oboz="" kod="" name="CL10A106KQ8NNNC 10 мкФ 6.3 В (Samsung)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="21" oboz="" kod="" name="CL10A475KP8NNNC 4.7 мкФ 10 В (Murata)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="3" oboz="" kod="" name="CL10B103KB8NNND 0.01 мкф 50 В (Samsung)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="5" oboz="" kod="" name="CL21C270JBANNNC 27 пФ 50 В (Murata)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="1" oboz="" kod="" name="GR442QR73D102KW01L 1000 пФ 2 кВ (Murata)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="10" oboz="" kod="" name="GRM21BR60J476ME15L 47 мкФ 6.3 В (Murata)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="1" oboz="" kod="" name="GRM31CR60J107ME39L 100 мкФ 6.3 В (Samsung)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="1" oboz="" kod="" name="GRM31CR61E476ME44L 47 мкФ 16 В (Murata)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="2" oboz="" kod="" name="CC0603KRNPO9BN330 33 пФ 50 В X7R (Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="23" oboz="" kod="" name="CC0603KRX7R6BB474 0.47 мкФ 10 В X7R (Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="25" oboz="" kod="" name="CC0603KRX7R9BB104 0.1 мкф 50 В X7R (Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="2" oboz="" kod="" name="CC0805KKX5R5BB226 22 мкФ 6.3 В X7R (Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="7" oboz="" kod="" name="CL10A106KQ8NNNC 10 мкФ 6.3 В X5R (Samsung)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="21" oboz="" kod="" name="CL10A475KP8NNNC 4.7 мкФ 10 В X5R (Samsung)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="3" oboz="" kod="" name="CL10B103KB8NNND 0.01 мкф 50 В X5R (Samsung)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="5" oboz="" kod="" name="CL21C270JBANNNC 27 пФ 50 В X5R (Samsung)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="GR442QR73D102KW01L 1000 пФ 2 кВ X5R " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="(Murata)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="10" oboz="" kod="" name="GRM21BR60J476ME15L 47 мкФ 6.3 В X5R " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="(Murata)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="GRM31CR60J107ME39L 100 мкФ 6.3 В X5R " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="(Murata)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="GRM31CR61E476ME44L 47 мкФ 16 В X5R (Murata)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="" oboz="" kod="" name="Микросхемы аналоговые" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
     <vpline num="2" oboz="" kod="" name="Импульсный регулятор MP2315GJ (Monolithic)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="4" oboz="" kod="" name="Импульсный регулятор NCP1529 (ONSemi)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="Микросхемы аналоговые" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
     <vpline num="1" oboz="" kod="" name="Трансформаторная сборка HX5008NLT (Pulse " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="" oboz="" kod="" name="Electronics)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="1" oboz="" kod="" name="Цифровой микрофон SPH0645LM4H (Knowles)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="" oboz="" kod="" name="Микросхемы цифровые" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
-    <vpline num="1" oboz="" kod="" name="Кварцевый генератор SG-8018CA TJHPA (" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="Кварцевый генератор SG-8018CA TJHPA (Epson)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="1" oboz="" kod="" name="ПЛИС XC7A35T-1FTG256C (Xilinx)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="1" oboz="" kod="" name="Приёмопередатчик физического уровня " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="" oboz="" kod="" name="Ethernet KSZ9131RXNI (TI)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="1" oboz="" kod="" name="Флеш-память MX25L12835F (" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="1" oboz="" kod="" name="Флеш-память MX25L12835F (Macronix)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="" oboz="" kod="" name="Индуктивности" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
     <vpline num="5" oboz="" kod="" name="MMZ1608Y221BT 220 Ом, 100 МГц (TDK)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
@@ -545,12 +550,12 @@
     <vpline num="2" oboz="" kod="" name="RC0603FR-077K5L 7.5 кОм 5% 0.125 Вт (Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="6" oboz="" kod="" name="RC0805FR-070RL 0 Ом 5% 0.125 Вт (Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="6" oboz="" kod="" name="RC0805FR-07120KL 120 кОм 1% 0.125 Вт (Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="Резисторы" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
     <vpline num="8" oboz="" kod="" name="RC0805FR-07220RL 220 Ом 5% 0.125 Вт (Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="1" oboz="" kod="" name="RC0805FR-0733KL 33 кОм 5% 0.125 Вт (Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="1" oboz="" kod="" name="RC0805FR-07360KL 360 кОм 1% 0.125 Вт " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="" oboz="" kod="" name="(Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="3" oboz="" kod="" name="RC0805FR-0751RL 51 Ом 5% 0.125 Вт (Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="Резисторы" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
     <vpline num="1" oboz="" kod="" name="RC0805FR-07560KL 560 кОм 1% 0.125 Вт " comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="" oboz="" kod="" name="(Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="2" oboz="" kod="" name="RC0805FR-075K1L 5.1 кОм 5% 0.125 Вт (Yageo)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
@@ -571,13 +576,13 @@
     <vpline num="2" oboz="" kod="" name="Светодиод TO-1608BC-BF (Oasis tech.)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="6" oboz="" kod="" name="Светодиод TO-1608BC-PG (Oasis tech.)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
+    <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="" oboz="" kod="" name="Разъёмы" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
     <vpline num="1" oboz="" kod="" name="DC3-14P (Китай)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="1" oboz="" kod="" name="DC005 5,5x2,1 mm (Китай)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="1" oboz="" kod="" name="DS1021-1X3SF11-B (Connfly)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="1" oboz="" kod="" name="DS1021-1X10SF11-B (Connfly)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="1" oboz="" kod="" name="RJHSE-5381 (Amphenol)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
-    <vpline num="" oboz="" kod="" name="Разъёмы" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
     <vpline num="1" oboz="" kod="" name="USB Type-C (Китай)" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="" oboz="" kod="" name="" comment="" underline="False" type="None" merge="False" vhodit="" post="" />
     <vpline num="" oboz="" kod="" name="Резонатор кварцевый" comment="" underline="False" type="ElementGroup" merge="False" vhodit="" post="" />
@@ -587,60 +592,62 @@
   <speclines>
     <specline num="" oboz="" name="Сборочные единицы" comment="" underline="True" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
     <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
-    <specline num="1" oboz="acf_pcb" name="Плата многослойная" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="А4" pos="1" posinelement="0" />
+    <specline num="1" oboz="acf_pcb_pollex" name="Устройство для сжатия аудиоданных" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="А4" pos="1" posinelement="0" />
     <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
     <specline num="" oboz="" name="Прочие изделия" comment="" underline="True" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
     <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
     <specline num="" oboz="" name="Конденсаторы" comment="" underline="False" type="FunctionalGroup" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
-    <specline num="2" oboz="" name="CC0603KRNPO9BN330 33 пФ 50 В (Yageo)" comment="C74, C75" underline="False" type="None" merge="False" needtu="False" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="3" posinelement="1" />
+    <specline num="2" oboz="" name="CC0603KRNPO9BN330 33 пФ 50 В X7R " comment="C74, C75" underline="False" type="None" merge="False" needtu="False" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="3" posinelement="1" />
+    <specline num="" oboz="" name="(Yageo)" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
     <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
-    <specline num="23" oboz="" name="CC0603KRX7R6BB474 0.47 мкФ 10 В " comment="C18, C34-C55" underline="False" type="None" merge="False" needtu="False" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="5" posinelement="1" />
-    <specline num="" oboz="" name="(Murata)" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="23" oboz="" name="CC0603KRX7R6BB474 0.47 мкФ 10 В X7R " comment="C18, C34-C55" underline="False" type="None" merge="False" needtu="False" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="5" posinelement="1" />
+    <specline num="" oboz="" name="(Yageo)" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
     <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
-    <specline num="25" oboz="" name="CC0603KRX7R9BB104 0.1 мкф 50 В (Yageo)" comment="C15, C33," underline="False" type="None" merge="False" needtu="False" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="7" posinelement="1" />
-    <specline num="" oboz="" name="" comment="C56, C61," underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="25" oboz="" name="CC0603KRX7R9BB104 0.1 мкф 50 В X7R " comment="C15, C33," underline="False" type="None" merge="False" needtu="False" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="7" posinelement="1" />
+    <specline num="" oboz="" name="(Yageo)" comment="C56, C61," underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
     <specline num="" oboz="" name="" comment="C68, C70, C71," underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="3" />
     <specline num="" oboz="" name="" comment="C73, C76-C80," underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="4" />
     <specline num="" oboz="" name="" comment="C83-C91, " underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="5" />
     <specline num="" oboz="" name="" comment="C93-C95" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="6" />
     <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
-    <specline num="2" oboz="" name="CC0805KKX5R5BB226 22 мкФ 6.3 В " comment="C96, C97" underline="False" type="None" merge="False" needtu="False" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="9" posinelement="1" />
-    <specline num="" oboz="" name="(Samsung)" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="2" oboz="" name="CC0805KKX5R5BB226 22 мкФ 6.3 В X7R " comment="C96, C97" underline="False" type="None" merge="False" needtu="False" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="9" posinelement="1" />
+    <specline num="" oboz="" name="(Yageo)" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
     <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
-    <specline num="7" oboz="" name="CL10A106KQ8NNNC 10 мкФ 6.3 В (Samsung)" comment="C3-C5, C16," underline="False" type="None" merge="False" needtu="False" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="11" posinelement="1" />
-    <specline num="" oboz="" name="" comment="C81, C82, C98" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
-    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="7" oboz="" name="CL10A106KQ8NNNC 10 мкФ 6.3 В X5R " comment="C3-C5, C16," underline="False" type="None" merge="False" needtu="False" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="11" posinelement="1" />
+    <specline num="" oboz="" name="(Samsung)" comment="C81, C82, C98" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
     <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
     <specline num="" oboz="" name="Конденсаторы" comment="" underline="False" type="FunctionalGroup" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
-    <specline num="21" oboz="" name="CL10A475KP8NNNC 4.7 мкФ 10 В (Murata)" comment="C2, C17," underline="False" type="None" merge="False" needtu="False" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="13" posinelement="1" />
-    <specline num="" oboz="" name="" comment="C19-C32, " underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="21" oboz="" name="CL10A475KP8NNNC 4.7 мкФ 10 В X5R " comment="C2, C17," underline="False" type="None" merge="False" needtu="False" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="13" posinelement="1" />
+    <specline num="" oboz="" name="(Samsung)" comment="C19-C32, " underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
     <specline num="" oboz="" name="" comment="C57-C60," underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="3" />
     <specline num="" oboz="" name="" comment="C72" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="4" />
     <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
-    <specline num="3" oboz="" name="CL10B103KB8NNND 0.01 мкф 50 В (Samsung)" comment="C92, C100, C101" underline="False" type="None" merge="False" needtu="False" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="15" posinelement="1" />
+    <specline num="3" oboz="" name="CL10B103KB8NNND 0.01 мкф 50 В X5R " comment="C92, C100, C101" underline="False" type="None" merge="False" needtu="False" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="15" posinelement="1" />
+    <specline num="" oboz="" name="(Samsung)" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
     <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
-    <specline num="5" oboz="" name="CL21C270JBANNNC 27 пФ 50 В (Murata)" comment="C62-C65, C69" underline="False" type="None" merge="False" needtu="False" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="17" posinelement="1" />
+    <specline num="5" oboz="" name="CL21C270JBANNNC 27 пФ 50 В X5R " comment="C62-C65, C69" underline="False" type="None" merge="False" needtu="False" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="17" posinelement="1" />
+    <specline num="" oboz="" name="(Samsung)" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
     <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
-    <specline num="1" oboz="" name="GR442QR73D102KW01L 1000 пФ 2 кВ " comment="C99" underline="False" type="None" merge="False" needtu="False" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="19" posinelement="1" />
+    <specline num="1" oboz="" name="GR442QR73D102KW01L 1000 пФ 2 кВ X5R " comment="C99" underline="False" type="None" merge="False" needtu="False" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="19" posinelement="1" />
     <specline num="" oboz="" name="(Murata)" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
     <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
-    <specline num="10" oboz="" name="GRM21BR60J476ME15L 47 мкФ 6.3 В " comment="C6-C8, " underline="False" type="None" merge="False" needtu="False" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="21" posinelement="1" />
+    <specline num="10" oboz="" name="GRM21BR60J476ME15L 47 мкФ 6.3 В X5R " comment="C6-C8, " underline="False" type="None" merge="False" needtu="False" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="21" posinelement="1" />
     <specline num="" oboz="" name="(Murata)" comment="C10-C14, " underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
     <specline num="" oboz="" name="" comment="C66, C67" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="3" />
     <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
-    <specline num="1" oboz="" name="GRM31CR60J107ME39L 100 мкФ 6.3 В " comment="C9" underline="False" type="None" merge="False" needtu="False" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="23" posinelement="1" />
-    <specline num="" oboz="" name="(Samsung)" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
+    <specline num="1" oboz="" name="GRM31CR60J107ME39L 100 мкФ 6.3 В X5R " comment="C9" underline="False" type="None" merge="False" needtu="False" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="23" posinelement="1" />
+    <specline num="" oboz="" name="(Murata)" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
     <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
-    <specline num="1" oboz="" name="GRM31CR61E476ME44L 47 мкФ 16 В (Murata)" comment="C1" underline="False" type="None" merge="False" needtu="False" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="25" posinelement="1" />
+    <specline num="1" oboz="" name="GRM31CR61E476ME44L 47 мкФ 16 В X5R " comment="C1" underline="False" type="None" merge="False" needtu="False" GroupLine1="Конденсаторы" GroupLine2="" format="" pos="25" posinelement="1" />
+    <specline num="" oboz="" name="(Murata)" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
     <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
     <specline num="" oboz="" name="Микросхемы аналоговые" comment="" underline="False" type="FunctionalGroup" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
     <specline num="2" oboz="" name="Импульсный регулятор MP2315GJ " comment="DA1, DA6" underline="False" type="None" merge="False" needtu="False" GroupLine1="Микросхемы аналоговые" GroupLine2="" format="" pos="27" posinelement="1" />
     <specline num="" oboz="" name="(Monolithic)" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
     <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="Микросхемы аналоговые" comment="" underline="False" type="FunctionalGroup" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
     <specline num="4" oboz="" name="Импульсный регулятор NCP1529 (ONSemi)" comment="DA2-DA5" underline="False" type="None" merge="False" needtu="False" GroupLine1="Микросхемы аналоговые" GroupLine2="" format="" pos="29" posinelement="1" />
     <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
-    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
-    <specline num="" oboz="" name="Микросхемы аналоговые" comment="" underline="False" type="FunctionalGroup" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
     <specline num="1" oboz="" name="Трансформаторная сборка HX5008NLT " comment="DA8" underline="False" type="None" merge="False" needtu="False" GroupLine1="Микросхемы аналоговые" GroupLine2="" format="" pos="31" posinelement="1" />
     <specline num="" oboz="" name="(Pulse Electronics)" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
     <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
@@ -648,14 +655,15 @@
     <specline num="" oboz="" name="(Knowles)" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
     <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
     <specline num="" oboz="" name="Микросхемы цифровые" comment="" underline="False" type="FunctionalGroup" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
-    <specline num="1" oboz="" name="Кварцевый генератор SG-8018CA TJHPA (" comment="DD3" underline="False" type="None" merge="False" needtu="False" GroupLine1="Микросхемы цифровые" GroupLine2="" format="" pos="35" posinelement="1" />
+    <specline num="1" oboz="" name="Кварцевый генератор SG-8018CA TJHPA " comment="DD3" underline="False" type="None" merge="False" needtu="False" GroupLine1="Микросхемы цифровые" GroupLine2="" format="" pos="35" posinelement="1" />
+    <specline num="" oboz="" name="(Epson)" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
     <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
     <specline num="1" oboz="" name="ПЛИС XC7A35T-1FTG256C (Xilinx)" comment="DD1" underline="False" type="None" merge="False" needtu="False" GroupLine1="Микросхемы цифровые" GroupLine2="" format="" pos="37" posinelement="1" />
     <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
     <specline num="1" oboz="" name="Приёмопередатчик физического уровня " comment="DD4" underline="False" type="None" merge="False" needtu="False" GroupLine1="Микросхемы цифровые" GroupLine2="" format="" pos="39" posinelement="1" />
     <specline num="" oboz="" name="Ethernet KSZ9131RXNI (TI)" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
     <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
-    <specline num="1" oboz="" name="Флеш-память MX25L12835F (" comment="DD2" underline="False" type="None" merge="False" needtu="False" GroupLine1="Микросхемы цифровые" GroupLine2="" format="" pos="41" posinelement="1" />
+    <specline num="1" oboz="" name="Флеш-память MX25L12835F (Macronix)" comment="DD2" underline="False" type="None" merge="False" needtu="False" GroupLine1="Микросхемы цифровые" GroupLine2="" format="" pos="41" posinelement="1" />
     <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
     <specline num="" oboz="" name="Индуктивности" comment="" underline="False" type="FunctionalGroup" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
     <specline num="5" oboz="" name="MMZ1608Y221BT 220 Ом, 100 МГц (TDK)" comment="L7-L11" underline="False" type="None" merge="False" needtu="False" GroupLine1="Индуктивности" GroupLine2="" format="" pos="43" posinelement="1" />
@@ -666,10 +674,10 @@
     <specline num="1" oboz="" name="RC0603FR-0712K4L 12.4 кОм 5% 0.125 Вт " comment="R28" underline="False" type="None" merge="False" needtu="False" GroupLine1="Резисторы" GroupLine2="" format="" pos="47" posinelement="1" />
     <specline num="" oboz="" name="(Yageo)" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
     <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="Резисторы" comment="" underline="False" type="FunctionalGroup" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
     <specline num="3" oboz="" name="RC0603FR-07180KL 180 кОм 1% 0.125 Вт " comment="R15, R17," underline="False" type="None" merge="False" needtu="False" GroupLine1="Резисторы" GroupLine2="" format="" pos="49" posinelement="1" />
     <specline num="" oboz="" name="(Yageo)" comment="R19" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
     <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
-    <specline num="" oboz="" name="Резисторы" comment="" underline="False" type="FunctionalGroup" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
     <specline num="1" oboz="" name="RC0603FR-0720KL 20 кОм 5% 0.125 Вт " comment="R9" underline="False" type="None" merge="False" needtu="False" GroupLine1="Резисторы" GroupLine2="" format="" pos="51" posinelement="1" />
     <specline num="" oboz="" name="(Yageo)" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
     <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
@@ -694,11 +702,11 @@
     <specline num="1" oboz="" name="RC0805FR-0733KL 33 кОм 5% 0.125 Вт " comment="R13" underline="False" type="None" merge="False" needtu="False" GroupLine1="Резисторы" GroupLine2="" format="" pos="65" posinelement="1" />
     <specline num="" oboz="" name="(Yageo)" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
     <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="Резисторы" comment="" underline="False" type="FunctionalGroup" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
     <specline num="1" oboz="" name="RC0805FR-07360KL 360 кОм 1% 0.125 Вт " comment="R16" underline="False" type="None" merge="False" needtu="False" GroupLine1="Резисторы" GroupLine2="" format="" pos="67" posinelement="1" />
     <specline num="" oboz="" name="(Yageo)" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
     <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
-    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
-    <specline num="" oboz="" name="Резисторы" comment="" underline="False" type="FunctionalGroup" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
     <specline num="3" oboz="" name="RC0805FR-0751RL 51 Ом 5% 0.125 Вт " comment="R43-R45" underline="False" type="None" merge="False" needtu="False" GroupLine1="Резисторы" GroupLine2="" format="" pos="69" posinelement="1" />
     <specline num="" oboz="" name="(Yageo)" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
     <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
@@ -723,11 +731,11 @@
     <specline num="" oboz="" name="(Yageo)" comment="R48-R53, " underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
     <specline num="" oboz="" name="" comment="R57-R62" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="3" />
     <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="Резисторы" comment="" underline="False" type="FunctionalGroup" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
     <specline num="4" oboz="" name="RC1206JR-0775RL 75 Ом 5% 0.25 Вт " comment="R80, R81, " underline="False" type="None" merge="False" needtu="False" GroupLine1="Резисторы" GroupLine2="" format="" pos="83" posinelement="1" />
     <specline num="" oboz="" name="(Yageo)" comment="R83, R84" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
     <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
-    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
-    <specline num="" oboz="" name="Резисторы" comment="" underline="False" type="FunctionalGroup" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
     <specline num="5" oboz="" name="RS-05K472JT 4.7 кОм 5% 0.125 Вт (Yageo)" comment="R38, R41, R42," underline="False" type="None" merge="False" needtu="False" GroupLine1="Резисторы" GroupLine2="" format="" pos="85" posinelement="1" />
     <specline num="" oboz="" name="" comment="R47, R63" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="2" />
     <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
@@ -752,6 +760,8 @@
     <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
     <specline num="1" oboz="" name="DS1021-1X10SF11-B (Connfly)" comment="X6" underline="False" type="None" merge="False" needtu="False" GroupLine1="Разъёмы" GroupLine2="" format="" pos="103" posinelement="1" />
     <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
+    <specline num="" oboz="" name="Разъёмы" comment="" underline="False" type="FunctionalGroup" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
     <specline num="1" oboz="" name="RJHSE-5381 (Amphenol)" comment="X5" underline="False" type="None" merge="False" needtu="False" GroupLine1="Разъёмы" GroupLine2="" format="" pos="105" posinelement="1" />
     <specline num="" oboz="" name="" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="" pos="" posinelement="0" />
     <specline num="1" oboz="" name="USB Type-C (Китай)" comment="X1" underline="False" type="None" merge="False" needtu="False" GroupLine1="Разъёмы" GroupLine2="" format="" pos="107" posinelement="1" />
@@ -781,7 +791,8 @@
     <group name="C">
       <param name="DesignItemId" delemiter=" " />
       <param name="Значение" delemiter=" " />
-      <param name="Напряжение" delemiter=" (" />
+      <param name="Напряжение" delemiter=" " />
+      <param name="Диэлектрик" delemiter=" (" />
       <param name="Компания" delemiter=")" />
     </group>
     <group name="L">
@@ -808,8 +819,102 @@
   <groupscategory />
   <razdels>
     <razdel name="Sbor" np="False">
-      <specline num="1" oboz="acf_pcb" name="Плата многослойная" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="А4" pos="1" id="lineSbor1" posinelement="0" />
+      <specline num="1" oboz="acf_pcb_pollex" name="Устройство для сжатия аудиоданных" comment="" underline="False" type="None" merge="False" needtu="False" GroupLine1="" GroupLine2="" format="А4" pos="1" id="lineSbor1" posinelement="0" />
     </razdel>
     <razdel name="prochie" np="False" />
   </razdels>
+  <Stamps>
+    <Stamp document="PE">
+      <param name="Разработал" value="Добротин А.А." />
+      <param name="Проверил" value="Леонидов В.В." />
+      <param name="Начальник отдела" value="" />
+      <param name="Начальник отдела ( альтернативное название параметра)" value="" />
+      <param name="Утвердил" value="" />
+      <param name="Нормоконтроль" value="" />
+      <param name="Технолог" value="" />
+      <param name="Графа 04 - Литера" value="" />
+      <param name="Графа 12 - Подпись" value="" />
+      <param name="Графа 30 - Индекс заказчика" value="" />
+      <param name="Графа 28 - Номер и год утверждения литеры" value="" />
+      <param name="Графа 29 - Номер и год утверждения документации" value="" />
+      <param name="Графа 22 - Инвентарный номер дубликата" value="" />
+      <param name="Графа 19 - Инвентарный номер подлинника" value="" />
+      <param name="Графа 14 - Порядковый номер изменения" value="" />
+      <param name="Графа 15 - Указания об изменении листа" value="" />
+      <param name="Графа 16 - Номер извещения" value="" />
+      <param name="Графа 20 - Подпись и дата приемки в СТД" value="" />
+      <param name="Графа 21 - Взам. инв №" value="" />
+      <param name="Графа 23 - Подпись и дата приемки дубликата в СТД" value="" />
+      <param name="Графа 24 - Справ. №" value="" />
+    </Stamp>
+    <Stamp document="VP">
+      <param name="Разработал" value="" />
+      <param name="Проверил" value="" />
+      <param name="Начальник отдела" value="" />
+      <param name="Начальник отдела ( альтернативное название параметра)" value="" />
+      <param name="Утвердил" value="" />
+      <param name="Нормоконтроль" value="" />
+      <param name="Технолог" value="" />
+      <param name="Графа 04 - Литера" value="" />
+      <param name="Графа 12 - Подпись" value="" />
+      <param name="Графа 30 - Индекс заказчика" value="" />
+      <param name="Графа 28 - Номер и год утверждения литеры" value="" />
+      <param name="Графа 29 - Номер и год утверждения документации" value="" />
+      <param name="Графа 22 - Инвентарный номер дубликата" value="" />
+      <param name="Графа 19 - Инвентарный номер подлинника" value="" />
+      <param name="Графа 14 - Порядковый номер изменения" value="" />
+      <param name="Графа 15 - Указания об изменении листа" value="" />
+      <param name="Графа 16 - Номер извещения" value="" />
+      <param name="Графа 20 - Подпись и дата приемки в СТД" value="" />
+      <param name="Графа 21 - Взам. инв №" value="" />
+      <param name="Графа 23 - Подпись и дата приемки дубликата в СТД" value="" />
+      <param name="Графа 24 - Справ. №" value="" />
+    </Stamp>
+    <Stamp document="SP">
+      <param name="Разработал" value="" />
+      <param name="Проверил" value="" />
+      <param name="Начальник отдела" value="" />
+      <param name="Начальник отдела ( альтернативное название параметра)" value="" />
+      <param name="Утвердил" value="" />
+      <param name="Нормоконтроль" value="" />
+      <param name="Технолог" value="" />
+      <param name="Графа 04 - Литера" value="" />
+      <param name="Графа 12 - Подпись" value="" />
+      <param name="Графа 30 - Индекс заказчика" value="" />
+      <param name="Графа 28 - Номер и год утверждения литеры" value="" />
+      <param name="Графа 29 - Номер и год утверждения документации" value="" />
+      <param name="Графа 22 - Инвентарный номер дубликата" value="" />
+      <param name="Графа 19 - Инвентарный номер подлинника" value="" />
+      <param name="Графа 14 - Порядковый номер изменения" value="" />
+      <param name="Графа 15 - Указания об изменении листа" value="" />
+      <param name="Графа 16 - Номер извещения" value="" />
+      <param name="Графа 20 - Подпись и дата приемки в СТД" value="" />
+      <param name="Графа 21 - Взам. инв №" value="" />
+      <param name="Графа 23 - Подпись и дата приемки дубликата в СТД" value="" />
+      <param name="Графа 24 - Справ. №" value="" />
+    </Stamp>
+    <Stamp document="SPP">
+      <param name="Разработал" value="" />
+      <param name="Проверил" value="" />
+      <param name="Начальник отдела" value="" />
+      <param name="Начальник отдела ( альтернативное название параметра)" value="" />
+      <param name="Утвердил" value="" />
+      <param name="Нормоконтроль" value="" />
+      <param name="Технолог" value="" />
+      <param name="Графа 04 - Литера" value="" />
+      <param name="Графа 12 - Подпись" value="" />
+      <param name="Графа 30 - Индекс заказчика" value="" />
+      <param name="Графа 28 - Номер и год утверждения литеры" value="" />
+      <param name="Графа 29 - Номер и год утверждения документации" value="" />
+      <param name="Графа 22 - Инвентарный номер дубликата" value="" />
+      <param name="Графа 19 - Инвентарный номер подлинника" value="" />
+      <param name="Графа 14 - Порядковый номер изменения" value="" />
+      <param name="Графа 15 - Указания об изменении листа" value="" />
+      <param name="Графа 16 - Номер извещения" value="" />
+      <param name="Графа 20 - Подпись и дата приемки в СТД" value="" />
+      <param name="Графа 21 - Взам. инв №" value="" />
+      <param name="Графа 23 - Подпись и дата приемки дубликата в СТД" value="" />
+      <param name="Графа 24 - Справ. №" value="" />
+    </Stamp>
+  </Stamps>
 </BoasConfig>
